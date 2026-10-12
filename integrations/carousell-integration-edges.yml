@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/carousell/integrations
+- https://n8n.io/integrations/carousell/
+- https://composio.dev/toolkits/carousell
+- https://monid.ai/tools/carousell
+checked:
+- https://composio.dev/toolkits/carousell
+- https://monid.ai/tools/carousell
+- https://n8n.io/integrations/carousell/
+- https://zapier.com/apps/carousell/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
